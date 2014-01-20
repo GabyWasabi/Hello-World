@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-For my programming class!
+print("hello world")
